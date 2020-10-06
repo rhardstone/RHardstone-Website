@@ -15,22 +15,67 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Java"
+  description = "Experienced"
+
+[[feature]]
+  icon = "file-code"
+  icon_pack = "far"
+  name = "MATLAB"
+  description = "Experienced"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Basic"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Human Electrophysiology (ECoG, M/EEG)"
+  description = "Experienced"  
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Neuroimaging (fMRI)"
+  description = "basic"  
+
+[[feature]]
+  icon = "bolt"
+  icon_pack = "fas"
+  name = "Neurostimulation (tDCS)"
+  description = "basic"  
+
+
+[[feature]]
+  icon = "water"
+  icon_pack = "fas"
+  name = "Digital Signal Processing"
+  description = "Experienced"
+
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "Experienced"  
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux Server Administration"
+  description = "Experienced"
+
+
+
+
+
+  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
