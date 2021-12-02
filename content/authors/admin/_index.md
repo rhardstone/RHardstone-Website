@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Post-Doctoral Fellow <br>Group of David Lin, MDPhD"
+role: "Research Fellow <br>Group of David Lin, MD"
 
 # Organizations/Affiliations
 organizations:
