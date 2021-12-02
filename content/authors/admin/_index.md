@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: "Post-Doctoral Fellow <br>Group of Biyu He, PhD"
+role: "Post-Doctoral Fellow <br>Group of David Lin, MDPhD"
 
 # Organizations/Affiliations
 organizations:
-- name: NYU Langone Health
-  url: "https://med.nyu.edu/helab/lab-members/"
+- name: Massachusetts General Hospital
+  url: "https://ltnr.mgh.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include developing neurophysiological biomarkers, computational modeling, and understanding self-organizing systems.
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Richard Hardstone is a Post-Doctoral Fellow in the Perception and Brain Dynamics Laboratory of Biyu He (NYU Neuroscience Institute). His research interests include developing neurophysiological biomarkers to characterize sensory processing and neural disorders, and understanding the self-organizing dynamics of neural activity and behavior. 
+Richard Hardstone is a Research Fellow in the Laboratory for Translational Neurorecovery of David Lin, MD (Dept. of Neurology, Massachusetts General Hospital). His research interests include developing neurophysiological biomarkers and computational models to characterize healthy and impaired movement in stroke, and understanding the self-organizing dynamics of neural activity and behavior. 

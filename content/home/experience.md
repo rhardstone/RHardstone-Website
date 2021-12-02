@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Fellow"
+  company = "Center for Neurotechnology and Neurorecovery, Massachusetts General Hospital"
+  company_url = ""
+  location = "Boston, MA"
+  date_start = "2021-12-01"
+  description = """
+  Projects include:
+  
+  * Characterizing longitudinal post-stroke EEG and its relationship to motor recovery 
+  
+  """
+
+
+
+[[experience]]
   title = "Post-Doctoral Fellow"
   company = "Neuroscience Institute, NYU Langone Health"
   company_url = ""
